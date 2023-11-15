@@ -1,0 +1,14 @@
+C:\Users\ya079936\temp\projetos\ClasseBancaria\ClasseBancaria\bin\Debug\net7.0\ClasseBancaria.exe
+C:\Users\ya079936\temp\projetos\ClasseBancaria\ClasseBancaria\bin\Debug\net7.0\ClasseBancaria.deps.json
+C:\Users\ya079936\temp\projetos\ClasseBancaria\ClasseBancaria\bin\Debug\net7.0\ClasseBancaria.runtimeconfig.json
+C:\Users\ya079936\temp\projetos\ClasseBancaria\ClasseBancaria\bin\Debug\net7.0\ClasseBancaria.dll
+C:\Users\ya079936\temp\projetos\ClasseBancaria\ClasseBancaria\bin\Debug\net7.0\ClasseBancaria.pdb
+C:\Users\ya079936\temp\projetos\ClasseBancaria\ClasseBancaria\obj\Debug\net7.0\ClasseBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ya079936\temp\projetos\ClasseBancaria\ClasseBancaria\obj\Debug\net7.0\ClasseBancaria.AssemblyInfoInputs.cache
+C:\Users\ya079936\temp\projetos\ClasseBancaria\ClasseBancaria\obj\Debug\net7.0\ClasseBancaria.AssemblyInfo.cs
+C:\Users\ya079936\temp\projetos\ClasseBancaria\ClasseBancaria\obj\Debug\net7.0\ClasseBancaria.csproj.CoreCompileInputs.cache
+C:\Users\ya079936\temp\projetos\ClasseBancaria\ClasseBancaria\obj\Debug\net7.0\ClasseBancaria.dll
+C:\Users\ya079936\temp\projetos\ClasseBancaria\ClasseBancaria\obj\Debug\net7.0\refint\ClasseBancaria.dll
+C:\Users\ya079936\temp\projetos\ClasseBancaria\ClasseBancaria\obj\Debug\net7.0\ClasseBancaria.pdb
+C:\Users\ya079936\temp\projetos\ClasseBancaria\ClasseBancaria\obj\Debug\net7.0\ClasseBancaria.genruntimeconfig.cache
+C:\Users\ya079936\temp\projetos\ClasseBancaria\ClasseBancaria\obj\Debug\net7.0\ref\ClasseBancaria.dll

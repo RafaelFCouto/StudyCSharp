@@ -1,0 +1,14 @@
+C:\Users\ya079936\temp\projetos\Pensionato\Pensionato\obj\Debug\net7.0\Pensionato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ya079936\temp\projetos\Pensionato\Pensionato\obj\Debug\net7.0\Pensionato.AssemblyInfoInputs.cache
+C:\Users\ya079936\temp\projetos\Pensionato\Pensionato\obj\Debug\net7.0\Pensionato.AssemblyInfo.cs
+C:\Users\ya079936\temp\projetos\Pensionato\Pensionato\obj\Debug\net7.0\Pensionato.csproj.CoreCompileInputs.cache
+C:\Users\ya079936\temp\projetos\Pensionato\Pensionato\bin\Debug\net7.0\Pensionato.exe
+C:\Users\ya079936\temp\projetos\Pensionato\Pensionato\bin\Debug\net7.0\Pensionato.deps.json
+C:\Users\ya079936\temp\projetos\Pensionato\Pensionato\bin\Debug\net7.0\Pensionato.runtimeconfig.json
+C:\Users\ya079936\temp\projetos\Pensionato\Pensionato\bin\Debug\net7.0\Pensionato.dll
+C:\Users\ya079936\temp\projetos\Pensionato\Pensionato\bin\Debug\net7.0\Pensionato.pdb
+C:\Users\ya079936\temp\projetos\Pensionato\Pensionato\obj\Debug\net7.0\Pensionato.dll
+C:\Users\ya079936\temp\projetos\Pensionato\Pensionato\obj\Debug\net7.0\refint\Pensionato.dll
+C:\Users\ya079936\temp\projetos\Pensionato\Pensionato\obj\Debug\net7.0\Pensionato.pdb
+C:\Users\ya079936\temp\projetos\Pensionato\Pensionato\obj\Debug\net7.0\Pensionato.genruntimeconfig.cache
+C:\Users\ya079936\temp\projetos\Pensionato\Pensionato\obj\Debug\net7.0\ref\Pensionato.dll

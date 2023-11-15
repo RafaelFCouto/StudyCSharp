@@ -1,0 +1,14 @@
+C:\Users\ya079936\temp\projetos\ExtraCSharp\ExtraCSharp\bin\Debug\net7.0\ExtraCSharp.exe
+C:\Users\ya079936\temp\projetos\ExtraCSharp\ExtraCSharp\bin\Debug\net7.0\ExtraCSharp.deps.json
+C:\Users\ya079936\temp\projetos\ExtraCSharp\ExtraCSharp\bin\Debug\net7.0\ExtraCSharp.runtimeconfig.json
+C:\Users\ya079936\temp\projetos\ExtraCSharp\ExtraCSharp\bin\Debug\net7.0\ExtraCSharp.dll
+C:\Users\ya079936\temp\projetos\ExtraCSharp\ExtraCSharp\bin\Debug\net7.0\ExtraCSharp.pdb
+C:\Users\ya079936\temp\projetos\ExtraCSharp\ExtraCSharp\obj\Debug\net7.0\ExtraCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ya079936\temp\projetos\ExtraCSharp\ExtraCSharp\obj\Debug\net7.0\ExtraCSharp.AssemblyInfoInputs.cache
+C:\Users\ya079936\temp\projetos\ExtraCSharp\ExtraCSharp\obj\Debug\net7.0\ExtraCSharp.AssemblyInfo.cs
+C:\Users\ya079936\temp\projetos\ExtraCSharp\ExtraCSharp\obj\Debug\net7.0\ExtraCSharp.csproj.CoreCompileInputs.cache
+C:\Users\ya079936\temp\projetos\ExtraCSharp\ExtraCSharp\obj\Debug\net7.0\ExtraCSharp.dll
+C:\Users\ya079936\temp\projetos\ExtraCSharp\ExtraCSharp\obj\Debug\net7.0\refint\ExtraCSharp.dll
+C:\Users\ya079936\temp\projetos\ExtraCSharp\ExtraCSharp\obj\Debug\net7.0\ExtraCSharp.pdb
+C:\Users\ya079936\temp\projetos\ExtraCSharp\ExtraCSharp\obj\Debug\net7.0\ExtraCSharp.genruntimeconfig.cache
+C:\Users\ya079936\temp\projetos\ExtraCSharp\ExtraCSharp\obj\Debug\net7.0\ref\ExtraCSharp.dll

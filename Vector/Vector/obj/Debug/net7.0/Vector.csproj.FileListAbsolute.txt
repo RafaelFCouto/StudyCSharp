@@ -1,0 +1,14 @@
+C:\Users\ya079936\temp\projetos\Vector\Vector\obj\Debug\net7.0\Vector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ya079936\temp\projetos\Vector\Vector\obj\Debug\net7.0\Vector.AssemblyInfoInputs.cache
+C:\Users\ya079936\temp\projetos\Vector\Vector\obj\Debug\net7.0\Vector.AssemblyInfo.cs
+C:\Users\ya079936\temp\projetos\Vector\Vector\obj\Debug\net7.0\Vector.csproj.CoreCompileInputs.cache
+C:\Users\ya079936\temp\projetos\Vector\Vector\bin\Debug\net7.0\Vector.exe
+C:\Users\ya079936\temp\projetos\Vector\Vector\bin\Debug\net7.0\Vector.deps.json
+C:\Users\ya079936\temp\projetos\Vector\Vector\bin\Debug\net7.0\Vector.runtimeconfig.json
+C:\Users\ya079936\temp\projetos\Vector\Vector\bin\Debug\net7.0\Vector.dll
+C:\Users\ya079936\temp\projetos\Vector\Vector\bin\Debug\net7.0\Vector.pdb
+C:\Users\ya079936\temp\projetos\Vector\Vector\obj\Debug\net7.0\Vector.dll
+C:\Users\ya079936\temp\projetos\Vector\Vector\obj\Debug\net7.0\refint\Vector.dll
+C:\Users\ya079936\temp\projetos\Vector\Vector\obj\Debug\net7.0\Vector.pdb
+C:\Users\ya079936\temp\projetos\Vector\Vector\obj\Debug\net7.0\Vector.genruntimeconfig.cache
+C:\Users\ya079936\temp\projetos\Vector\Vector\obj\Debug\net7.0\ref\Vector.dll

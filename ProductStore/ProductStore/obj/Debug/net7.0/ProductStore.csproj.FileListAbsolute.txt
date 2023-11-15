@@ -1,0 +1,14 @@
+C:\Users\ya079936\temp\projetos\ProductStore\ProductStore\bin\Debug\net7.0\ProductStore.exe
+C:\Users\ya079936\temp\projetos\ProductStore\ProductStore\bin\Debug\net7.0\ProductStore.deps.json
+C:\Users\ya079936\temp\projetos\ProductStore\ProductStore\bin\Debug\net7.0\ProductStore.runtimeconfig.json
+C:\Users\ya079936\temp\projetos\ProductStore\ProductStore\bin\Debug\net7.0\ProductStore.dll
+C:\Users\ya079936\temp\projetos\ProductStore\ProductStore\bin\Debug\net7.0\ProductStore.pdb
+C:\Users\ya079936\temp\projetos\ProductStore\ProductStore\obj\Debug\net7.0\ProductStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ya079936\temp\projetos\ProductStore\ProductStore\obj\Debug\net7.0\ProductStore.AssemblyInfoInputs.cache
+C:\Users\ya079936\temp\projetos\ProductStore\ProductStore\obj\Debug\net7.0\ProductStore.AssemblyInfo.cs
+C:\Users\ya079936\temp\projetos\ProductStore\ProductStore\obj\Debug\net7.0\ProductStore.csproj.CoreCompileInputs.cache
+C:\Users\ya079936\temp\projetos\ProductStore\ProductStore\obj\Debug\net7.0\ProductStore.dll
+C:\Users\ya079936\temp\projetos\ProductStore\ProductStore\obj\Debug\net7.0\refint\ProductStore.dll
+C:\Users\ya079936\temp\projetos\ProductStore\ProductStore\obj\Debug\net7.0\ProductStore.pdb
+C:\Users\ya079936\temp\projetos\ProductStore\ProductStore\obj\Debug\net7.0\ProductStore.genruntimeconfig.cache
+C:\Users\ya079936\temp\projetos\ProductStore\ProductStore\obj\Debug\net7.0\ref\ProductStore.dll
