@@ -1,0 +1,14 @@
+C:\Users\ya079936\temp\projetos\CourseRemote\CourseRemote\bin\Debug\net7.0\CourseRemote.exe
+C:\Users\ya079936\temp\projetos\CourseRemote\CourseRemote\bin\Debug\net7.0\CourseRemote.deps.json
+C:\Users\ya079936\temp\projetos\CourseRemote\CourseRemote\bin\Debug\net7.0\CourseRemote.runtimeconfig.json
+C:\Users\ya079936\temp\projetos\CourseRemote\CourseRemote\bin\Debug\net7.0\CourseRemote.dll
+C:\Users\ya079936\temp\projetos\CourseRemote\CourseRemote\bin\Debug\net7.0\CourseRemote.pdb
+C:\Users\ya079936\temp\projetos\CourseRemote\CourseRemote\obj\Debug\net7.0\CourseRemote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ya079936\temp\projetos\CourseRemote\CourseRemote\obj\Debug\net7.0\CourseRemote.AssemblyInfoInputs.cache
+C:\Users\ya079936\temp\projetos\CourseRemote\CourseRemote\obj\Debug\net7.0\CourseRemote.AssemblyInfo.cs
+C:\Users\ya079936\temp\projetos\CourseRemote\CourseRemote\obj\Debug\net7.0\CourseRemote.csproj.CoreCompileInputs.cache
+C:\Users\ya079936\temp\projetos\CourseRemote\CourseRemote\obj\Debug\net7.0\CourseRemote.dll
+C:\Users\ya079936\temp\projetos\CourseRemote\CourseRemote\obj\Debug\net7.0\refint\CourseRemote.dll
+C:\Users\ya079936\temp\projetos\CourseRemote\CourseRemote\obj\Debug\net7.0\CourseRemote.pdb
+C:\Users\ya079936\temp\projetos\CourseRemote\CourseRemote\obj\Debug\net7.0\CourseRemote.genruntimeconfig.cache
+C:\Users\ya079936\temp\projetos\CourseRemote\CourseRemote\obj\Debug\net7.0\ref\CourseRemote.dll

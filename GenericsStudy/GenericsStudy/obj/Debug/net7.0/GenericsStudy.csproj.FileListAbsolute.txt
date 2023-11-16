@@ -1,0 +1,14 @@
+C:\Users\ya079936\temp\projetos\GenericsStudy\GenericsStudy\bin\Debug\net7.0\GenericsStudy.exe
+C:\Users\ya079936\temp\projetos\GenericsStudy\GenericsStudy\bin\Debug\net7.0\GenericsStudy.deps.json
+C:\Users\ya079936\temp\projetos\GenericsStudy\GenericsStudy\bin\Debug\net7.0\GenericsStudy.runtimeconfig.json
+C:\Users\ya079936\temp\projetos\GenericsStudy\GenericsStudy\bin\Debug\net7.0\GenericsStudy.dll
+C:\Users\ya079936\temp\projetos\GenericsStudy\GenericsStudy\bin\Debug\net7.0\GenericsStudy.pdb
+C:\Users\ya079936\temp\projetos\GenericsStudy\GenericsStudy\obj\Debug\net7.0\GenericsStudy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ya079936\temp\projetos\GenericsStudy\GenericsStudy\obj\Debug\net7.0\GenericsStudy.AssemblyInfoInputs.cache
+C:\Users\ya079936\temp\projetos\GenericsStudy\GenericsStudy\obj\Debug\net7.0\GenericsStudy.AssemblyInfo.cs
+C:\Users\ya079936\temp\projetos\GenericsStudy\GenericsStudy\obj\Debug\net7.0\GenericsStudy.csproj.CoreCompileInputs.cache
+C:\Users\ya079936\temp\projetos\GenericsStudy\GenericsStudy\obj\Debug\net7.0\GenericsStudy.dll
+C:\Users\ya079936\temp\projetos\GenericsStudy\GenericsStudy\obj\Debug\net7.0\refint\GenericsStudy.dll
+C:\Users\ya079936\temp\projetos\GenericsStudy\GenericsStudy\obj\Debug\net7.0\GenericsStudy.pdb
+C:\Users\ya079936\temp\projetos\GenericsStudy\GenericsStudy\obj\Debug\net7.0\GenericsStudy.genruntimeconfig.cache
+C:\Users\ya079936\temp\projetos\GenericsStudy\GenericsStudy\obj\Debug\net7.0\ref\GenericsStudy.dll

@@ -1,0 +1,14 @@
+C:\Users\ya079936\temp\projetos\DictionaryStudy\DictionaryStudy\obj\Debug\net7.0\DictionaryStudy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ya079936\temp\projetos\DictionaryStudy\DictionaryStudy\obj\Debug\net7.0\DictionaryStudy.AssemblyInfoInputs.cache
+C:\Users\ya079936\temp\projetos\DictionaryStudy\DictionaryStudy\obj\Debug\net7.0\DictionaryStudy.AssemblyInfo.cs
+C:\Users\ya079936\temp\projetos\DictionaryStudy\DictionaryStudy\obj\Debug\net7.0\DictionaryStudy.csproj.CoreCompileInputs.cache
+C:\Users\ya079936\temp\projetos\DictionaryStudy\DictionaryStudy\bin\Debug\net7.0\DictionaryStudy.exe
+C:\Users\ya079936\temp\projetos\DictionaryStudy\DictionaryStudy\bin\Debug\net7.0\DictionaryStudy.deps.json
+C:\Users\ya079936\temp\projetos\DictionaryStudy\DictionaryStudy\bin\Debug\net7.0\DictionaryStudy.runtimeconfig.json
+C:\Users\ya079936\temp\projetos\DictionaryStudy\DictionaryStudy\bin\Debug\net7.0\DictionaryStudy.dll
+C:\Users\ya079936\temp\projetos\DictionaryStudy\DictionaryStudy\bin\Debug\net7.0\DictionaryStudy.pdb
+C:\Users\ya079936\temp\projetos\DictionaryStudy\DictionaryStudy\obj\Debug\net7.0\DictionaryStudy.dll
+C:\Users\ya079936\temp\projetos\DictionaryStudy\DictionaryStudy\obj\Debug\net7.0\refint\DictionaryStudy.dll
+C:\Users\ya079936\temp\projetos\DictionaryStudy\DictionaryStudy\obj\Debug\net7.0\DictionaryStudy.pdb
+C:\Users\ya079936\temp\projetos\DictionaryStudy\DictionaryStudy\obj\Debug\net7.0\DictionaryStudy.genruntimeconfig.cache
+C:\Users\ya079936\temp\projetos\DictionaryStudy\DictionaryStudy\obj\Debug\net7.0\ref\DictionaryStudy.dll

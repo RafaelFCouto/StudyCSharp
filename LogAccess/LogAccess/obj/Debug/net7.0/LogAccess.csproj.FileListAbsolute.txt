@@ -1,0 +1,14 @@
+C:\Users\ya079936\temp\projetos\LogAccess\LogAccess\obj\Debug\net7.0\LogAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ya079936\temp\projetos\LogAccess\LogAccess\obj\Debug\net7.0\LogAccess.AssemblyInfoInputs.cache
+C:\Users\ya079936\temp\projetos\LogAccess\LogAccess\obj\Debug\net7.0\LogAccess.AssemblyInfo.cs
+C:\Users\ya079936\temp\projetos\LogAccess\LogAccess\obj\Debug\net7.0\LogAccess.csproj.CoreCompileInputs.cache
+C:\Users\ya079936\temp\projetos\LogAccess\LogAccess\bin\Debug\net7.0\LogAccess.exe
+C:\Users\ya079936\temp\projetos\LogAccess\LogAccess\bin\Debug\net7.0\LogAccess.deps.json
+C:\Users\ya079936\temp\projetos\LogAccess\LogAccess\bin\Debug\net7.0\LogAccess.runtimeconfig.json
+C:\Users\ya079936\temp\projetos\LogAccess\LogAccess\bin\Debug\net7.0\LogAccess.dll
+C:\Users\ya079936\temp\projetos\LogAccess\LogAccess\bin\Debug\net7.0\LogAccess.pdb
+C:\Users\ya079936\temp\projetos\LogAccess\LogAccess\obj\Debug\net7.0\LogAccess.dll
+C:\Users\ya079936\temp\projetos\LogAccess\LogAccess\obj\Debug\net7.0\refint\LogAccess.dll
+C:\Users\ya079936\temp\projetos\LogAccess\LogAccess\obj\Debug\net7.0\LogAccess.pdb
+C:\Users\ya079936\temp\projetos\LogAccess\LogAccess\obj\Debug\net7.0\LogAccess.genruntimeconfig.cache
+C:\Users\ya079936\temp\projetos\LogAccess\LogAccess\obj\Debug\net7.0\ref\LogAccess.dll
