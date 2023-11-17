@@ -1,0 +1,14 @@
+C:\Users\rafae\OneDrive\Desktop\csharp\Study\ApplicationLinq\ApplicationLinq\obj\Debug\net7.0\ApplicationLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Desktop\csharp\Study\ApplicationLinq\ApplicationLinq\obj\Debug\net7.0\ApplicationLinq.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Desktop\csharp\Study\ApplicationLinq\ApplicationLinq\obj\Debug\net7.0\ApplicationLinq.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Desktop\csharp\Study\ApplicationLinq\ApplicationLinq\obj\Debug\net7.0\ApplicationLinq.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Desktop\csharp\Study\ApplicationLinq\ApplicationLinq\bin\Debug\net7.0\ApplicationLinq.exe
+C:\Users\rafae\OneDrive\Desktop\csharp\Study\ApplicationLinq\ApplicationLinq\bin\Debug\net7.0\ApplicationLinq.deps.json
+C:\Users\rafae\OneDrive\Desktop\csharp\Study\ApplicationLinq\ApplicationLinq\bin\Debug\net7.0\ApplicationLinq.runtimeconfig.json
+C:\Users\rafae\OneDrive\Desktop\csharp\Study\ApplicationLinq\ApplicationLinq\bin\Debug\net7.0\ApplicationLinq.dll
+C:\Users\rafae\OneDrive\Desktop\csharp\Study\ApplicationLinq\ApplicationLinq\bin\Debug\net7.0\ApplicationLinq.pdb
+C:\Users\rafae\OneDrive\Desktop\csharp\Study\ApplicationLinq\ApplicationLinq\obj\Debug\net7.0\ApplicationLinq.dll
+C:\Users\rafae\OneDrive\Desktop\csharp\Study\ApplicationLinq\ApplicationLinq\obj\Debug\net7.0\refint\ApplicationLinq.dll
+C:\Users\rafae\OneDrive\Desktop\csharp\Study\ApplicationLinq\ApplicationLinq\obj\Debug\net7.0\ApplicationLinq.pdb
+C:\Users\rafae\OneDrive\Desktop\csharp\Study\ApplicationLinq\ApplicationLinq\obj\Debug\net7.0\ApplicationLinq.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Desktop\csharp\Study\ApplicationLinq\ApplicationLinq\obj\Debug\net7.0\ref\ApplicationLinq.dll
