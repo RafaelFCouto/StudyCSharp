@@ -1,0 +1,14 @@
+C:\Users\rafae\OneDrive\Desktop\csharp\Study\LinqApplication\LinqApplication\bin\Debug\net7.0\LinqApplication.exe
+C:\Users\rafae\OneDrive\Desktop\csharp\Study\LinqApplication\LinqApplication\bin\Debug\net7.0\LinqApplication.deps.json
+C:\Users\rafae\OneDrive\Desktop\csharp\Study\LinqApplication\LinqApplication\bin\Debug\net7.0\LinqApplication.runtimeconfig.json
+C:\Users\rafae\OneDrive\Desktop\csharp\Study\LinqApplication\LinqApplication\bin\Debug\net7.0\LinqApplication.dll
+C:\Users\rafae\OneDrive\Desktop\csharp\Study\LinqApplication\LinqApplication\bin\Debug\net7.0\LinqApplication.pdb
+C:\Users\rafae\OneDrive\Desktop\csharp\Study\LinqApplication\LinqApplication\obj\Debug\net7.0\LinqApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Desktop\csharp\Study\LinqApplication\LinqApplication\obj\Debug\net7.0\LinqApplication.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Desktop\csharp\Study\LinqApplication\LinqApplication\obj\Debug\net7.0\LinqApplication.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Desktop\csharp\Study\LinqApplication\LinqApplication\obj\Debug\net7.0\LinqApplication.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Desktop\csharp\Study\LinqApplication\LinqApplication\obj\Debug\net7.0\LinqApplication.dll
+C:\Users\rafae\OneDrive\Desktop\csharp\Study\LinqApplication\LinqApplication\obj\Debug\net7.0\refint\LinqApplication.dll
+C:\Users\rafae\OneDrive\Desktop\csharp\Study\LinqApplication\LinqApplication\obj\Debug\net7.0\LinqApplication.pdb
+C:\Users\rafae\OneDrive\Desktop\csharp\Study\LinqApplication\LinqApplication\obj\Debug\net7.0\LinqApplication.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Desktop\csharp\Study\LinqApplication\LinqApplication\obj\Debug\net7.0\ref\LinqApplication.dll
